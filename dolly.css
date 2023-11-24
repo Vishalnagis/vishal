@@ -1,0 +1,120 @@
+
+#head{
+    border-radius: 60px;
+    width: auto;
+    background-color: rgb(213, 241, 169);
+    text-decoration: underline;
+    font-family: "PT_Serif variant1", Tofu;
+    font-style: italic;
+    color: rgb(0, 8, 255);
+   
+    display: flex;
+    justify-content: center; /* Aligns horizontally */
+    align-items: center; /* Aligns vertically */
+    height: 87px; /* Adjust height as needed */
+    border: 3px solid #ccc;
+
+}
+
+
+#container1 {
+   
+    
+    /* display: block; 
+    margin: 0 auto; */
+}
+#image1{
+    /* padding: 4px; */
+    border-radius: 77px;
+    margin: 4px;
+    border: 2px solid rgb(79 126 175 / 35%);
+    width: 150px;
+    height: 200px;
+    display: block; /* Ensures the image behaves as a block element */
+    margin: 0 auto;
+
+}
+
+#h2{
+    color:#039be5;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center; /* Aligns horizontally */
+    align-items: center;
+    
+}
+.container3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2682f1;
+    background-color:#f5f5f5;
+    text-align: center;
+}
+
+#p4{
+    color: #2b3ce7;
+    font-size: 25px;
+    font-style: italic;
+}
+#floatingimage2{
+    border-radius: 5px;
+    
+    border-radius: 25px;
+       padding: 4px;
+    margin-left: 150px;
+   
+    width: 280px;
+    height: 280px;
+
+}
+
+
+
+.image{
+    border-radius: 5px;
+    
+    border-radius: 25px;
+       padding: 4px;
+    margin-left: 150px;
+   
+    width: 250px;
+    height: 280px;
+}
+.container5{
+    background-color:#fffcdd;
+  
+    border: 2px  red;
+}
+
+
+.container6{
+
+    font-size: 28px;
+    color: #2b3ce7;
+    display: flex;
+    justify-content: center; /* Aligns horizontally */
+    align-items: center;
+ 
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+
+}
+.button{
+    border-radius: 6px;
+    background-color: rgb(245, 210, 181);
+    font-size: large;
+    color: #7426f1;
+    width: 100px;
+    height: 40px;
+    margin: 4px;
+}
+#footer{
+    color:#009688;
+    font-style: oblique;
+    font-size: larger;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+
+}
+
